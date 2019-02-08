@@ -1,0 +1,17 @@
+{
+  "name": "graphql_serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.395.0",
+    "graphql": "^14.1.1",
+    "uuid": "^3.3.2"
+  }
+}
